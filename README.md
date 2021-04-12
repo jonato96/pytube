@@ -1,2 +1,2 @@
 # pytube
-Descargar videos de Youtube utilizando Python
+Ejemplo sencillo para descargar videos de Youtube utilizando Python.
